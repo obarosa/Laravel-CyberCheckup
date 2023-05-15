@@ -1,0 +1,231 @@
+body {
+    font-family: "Rubik", Arial, Helvetica, sans-serif;
+}
+
+.bg-hlink {
+    background-color: #2D4B94 !important;
+}
+
+.color-hlink {
+    color: #2D4B94 !important;
+}
+
+.btn-sm-hlink {
+    color: #2d4b94;
+    border-color: #2d4b94;
+    padding: 0.15rem 1.3rem;
+    font-size: .875rem;
+    border-radius: 0.5rem;
+    background-color: white;
+}
+
+.btn-sm-hlink:hover {
+    background-color: #2d4b94 !important;
+    color: white !important;
+    border-color: white;
+}
+
+.bg-resultados-right {
+    background-color: #F0F1F3 !important;
+}
+
+.bg-questoes-left {
+    background-color: #F0F1F3 !important;
+}
+
+.btn-Cathlink {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    background-color: white;
+    border-color: black;
+    border-radius: 50px;
+    cursor: default;
+    padding: 0.275rem 0.75rem !important;
+}
+
+.btn.navLogoutIcon {
+    padding: 0.05rem 0.73rem !important;
+    border-radius: 5rem !important;
+}
+
+.btn.navLogoutIcon:hover {
+    background: cornflowerblue;
+}
+
+/* HOME */
+
+.containerHome {
+    height: 100vh;
+    width: 100%;
+    background: url(/images/background_cyber2.jpg?25baf7d62cbcf279e71ed31f270b0cf1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 170px;
+    background-size: cover;
+    /* background-size: 400px auto;*/
+    /* background-position: 70% 100%; */
+    opacity: 5;
+}
+
+.divTitulo {
+    width: 36em;
+}
+
+.divSubTitulo {
+    width: 65em;
+}
+
+.buttonContainer {
+    padding: 0.7em 1em 1em 1em;
+    width: initial;
+    text-align: center;
+    margin-right: 2em;
+    margin-left: 0.7em;
+    border: 2px solid hsla(210, 75%, 25%, 0.137);
+    border-radius: 10px;
+}
+
+/* CUSTOM CSS */
+
+:target {
+    scroll-margin-top: 6rem;
+}
+
+.btn-check {
+    clip: auto !important;
+}
+
+.btn.btn-primary.buttonPerSuccess {
+    border-radius: 0.25rem !important;
+    padding: 0.875rem 2rem !important;
+    background-color: #3c25fd;
+    border-color: #3c25fd;
+}
+
+.btn.btn-primary.submitQuestButton {
+    border-radius: 0.25rem !important;
+    padding: 0.875rem 5rem !important;
+    background-color: #3c25fd;
+    border-color: #3c25fd;
+}
+
+.color-primary {
+    color: #0a58ca;
+}
+
+.fs-6 {
+    font-size: 0.9rem !important;
+}
+
+.btn-outline-primary {
+    width: 8rem;
+    text-transform: uppercase;
+    color: #9ebbde;
+    border-color: #9ebbde;
+    padding: 0.575rem 0.75rem !important;
+    border-radius: 0.45rem !important;
+}
+
+.btn-check:checked+.btn-outline-primary {
+    border-color: #9ebbde;
+    background-image: linear-gradient(to right, #2998e7, #4682ca);
+}
+
+.btn-outline-primary:hover {
+    color: #9ebbde;
+    background-color: #F0F1F3;
+    border-color: #9ebbde;
+}
+
+/* QUESTÕES */
+
+.btn.btn-outline-secondary.btnSair {
+    padding: 0.300rem 2.75rem;
+}
+
+.text-uppercase.border-bottom {
+    width: 20em;
+    border-bottom: 3px solid #dee2e6 !important;
+}
+
+.disabledBtn {
+    cursor: not-allowed !important;
+    opacity: .65 !important;
+}
+
+.columnQuestoes {
+    padding: 6rem 5rem 3rem 5rem !important;
+}
+
+.questoesCatNome {
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.linhaQuestoes {
+    width: 25%;
+    margin-left: 15px;
+    border-top: 2px solid #dee2e6 !important;
+    margin-top: -5px;
+}
+
+.btn-Cathlink.btnQuestoes {
+    display: block;
+    cursor: pointer;
+}
+
+.btn.infoTooltip {
+    padding: 0rem 0rem !important;
+}
+
+.btnQuestoes.disabled {
+    border-color: darkgray !important;
+}
+
+/* RESULTADOS */
+
+.titleHlink {
+    color: #2D4B94;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.resultCategoriasDisplay {
+    width: 13em;
+    max-width: 13em;
+    border-top: 2px solid #2d4b94 !important;
+    border-bottom: 2px solid #2d4b94 !important;
+}
+
+.tituloPergunta {
+    color: #2D4B94 !important;
+    font-weight: bold;
+}
+
+.rowCatGeral {
+    padding: 0em 2em 1em 0.6em;
+}
+
+.btn.btn-Cathlink.resultCategoriasDisplay {
+    border-top: 2px solid black !important;
+    border-bottom: 2px solid black !important;
+}
+
+.bghide {
+    filter: blur(10px);
+}
+
+/* PDF */
+
+.questoesCatNome.pdfLay {
+    padding: 4px;
+    border: black;
+    border-radius: 0px;
+    background-color: #0a58ca;
+    color: white;
+    text-transform: capitalize;
+}
+
