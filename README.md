@@ -19,4 +19,4 @@ Enjoy.
 
 ## Other
 ### Import
-To import contacts from a XLSX file go to the dashboard and click on the "Choose File" button. In the "import" folder there are sample files.
+To import contacts from a XLSX file go to the dashboard and click on the "Choose File" button. In the "Choose File" folder there are sample files.

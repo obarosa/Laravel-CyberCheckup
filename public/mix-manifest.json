@@ -1,0 +1,23 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/utilizadores.js": "/js/utilizadores.js",
+    "/js/tipos.js": "/js/tipos.js",
+    "/js/categorias.js": "/js/categorias.js",
+    "/js/questoes.js": "/js/questoes.js",
+    "/js/respostas.js": "/js/respostas.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/respondidas.js": "/js/respondidas.js",
+    "/js/tentativas.js": "/js/tentativas.js",
+    "/js/home.js": "/js/home.js",
+    "/js/questionario.js": "/js/questionario.js",
+    "/js/resultado.js": "/js/resultado.js",
+    "/css/app.css": "/css/app.css",
+    "/css/backoffice.css": "/css/backoffice.css",
+    "/css/frontoffice.css": "/css/frontoffice.css",
+    "/assets/imgs/background_cyber.jpg": "/assets/imgs/background_cyber.jpg",
+    "/assets/imgs/background_cyber2.jpg": "/assets/imgs/background_cyber2.jpg",
+    "/assets/imgs/cybersecurity.svg": "/assets/imgs/cybersecurity.svg",
+    "/assets/imgs/example_graph.png": "/assets/imgs/example_graph.png",
+    "/assets/imgs/hlink_logo_img.png": "/assets/imgs/hlink_logo_img.png",
+    "/assets/imgs/logo-hlink.png": "/assets/imgs/logo-hlink.png"
+}
